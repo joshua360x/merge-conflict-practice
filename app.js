@@ -1,5 +1,5 @@
-//coder b conflict
-//make new change by coder A
+//CODER C CHANGES EVERYTHING
+//CODER C BAD
 import { 
     redirectIfLoggedIn, 
     signInUser, 
